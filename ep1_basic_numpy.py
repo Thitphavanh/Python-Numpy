@@ -1,3 +1,4 @@
+# Array 0 & 1D
 import numpy as np
 
 # array 0D
